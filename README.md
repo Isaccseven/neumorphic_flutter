@@ -1,4 +1,4 @@
-https://img.shields.io/github/workflow/status/Isaccseven/neumorphic_flutter/Flutter%20CI/main
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Isaccseven/neumorphic_flutter/Flutter%20CI/main)
 
 # Neumorphic_demo
 
